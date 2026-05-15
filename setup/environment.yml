@@ -15,7 +15,7 @@ dependencies:
       - numpy==1.26.0
       - pandas==2.1.1
       - biopython==1.81
-      - python-Levenshtein==0.25.1
+      - rapidfuzz
       - py3Dmol==2.0.4
       - torch==2.0.1
       - regex==2023.8.8
